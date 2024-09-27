@@ -6,5 +6,5 @@ The purpose of having a curated colorschemes repository is to make easy to previ
 
 ## How to use
 * Copy `colorschemes.lua` into your lazy plugins directory.
-* Run `require("telescope.builtin").colorscheme` and preview the plugins.
+* Inside Neovim run the command `:lua require("telescope.builtin").colorscheme` and preview the plugins.
 * Press enter to confim.
