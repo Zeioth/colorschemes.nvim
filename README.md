@@ -10,3 +10,7 @@ wget https://raw.githubusercontent.com/Zeioth/colorschemes.nvim/main/colorscheme
 
 ## Why
 * So many colorschemes, so little time.
+
+## Requirements
+* nvim 0.10+
+* A POSIX shell terminal
