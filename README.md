@@ -1,7 +1,7 @@
 # colorschemes.nvim
 Shell command to preview the top 50 neovim colorschemes.
 
-[Youtube preview here](https://www.youtube.com/watch?v=9iTfufJ67-o)
+[Youtube demo](https://www.youtube.com/watch?v=9iTfufJ67-o)
 
 ![screenshot_2024-09-27_19-19-48_324245139](https://github.com/user-attachments/assets/5f20a92d-eba6-491b-af76-7e1255f3b88a)
 
@@ -20,3 +20,7 @@ You can navigate the colorschemes with the arrow keys.
 * Copy `colorschemes.lua` into your lazy plugins directory.
 * Inside Neovim run the command `:lua require("telescope.builtin").colorscheme`.
 * You can navigate the colorschemes with the arrow keys.
+
+
+## Credits
+All colorschemes included here belong to their original creators. Please star their plugins if you like them. I did this little project just for fun.
