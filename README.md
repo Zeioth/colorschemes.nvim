@@ -8,7 +8,7 @@ Shell command to preview the top 50 neovim colorschemes.
 * A single command to preview the top 50 [accorting to dotyfile](https://dotfyle.com/neovim/colorscheme/top/).
 
 ## How to use (minfile)
-Copy paste the next command in your terminal
+Copy paste this in your terminal
 ```sh
 wget https://raw.githubusercontent.com/Zeioth/colorschemes.nvim/main/colorschemes-minfile.lua -O preview-colorschemes.lua && nvim -u preview-colorschemes.lua
 ```
