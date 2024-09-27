@@ -672,3 +672,7 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+Clause: Any colorscheme included in this repository preserve its original
+        license and author. This is just a collection of colorschemes with the
+        purpose of give visibility to these projects and a convenient way for the users.
