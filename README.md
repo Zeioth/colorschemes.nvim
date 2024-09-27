@@ -2,12 +2,18 @@
 My curated collection of Neovim colorschemes
 
 ## Why
-The purpose of having a curated colorschemes repository is to make easy to preview them on telescope with `require("telescope.builtin").colorscheme`.
+* So many colorthemes, so little time.
+* A single command to preview the top 50 ones.
 
-## How to use
+## How to use (minfile)
+Copy paste the next command in your terminal to download a minfile and preview the colorschemes without poluting your personal config.
+
+```
+wget https://raw.githubusercontent.com/Zeioth/colorschemes.nvim/main/colorschemes-minfile.lua -O preview-colorschemes.lua && nvim -u preview-colorschemes.lua
+```
+You can navigate the colorschemes with the arrow keys.
+
+## How to use (on your personal config)
 * Copy `colorschemes.lua` into your lazy plugins directory.
 * Inside Neovim run the command `:lua require("telescope.builtin").colorscheme` and preview the plugins.
 * Press enter to confim.
-
-## FAQ
-**Telescope won't open**: You must install Telescope and make sure it has loaded correctly. This file won't install it for you.
