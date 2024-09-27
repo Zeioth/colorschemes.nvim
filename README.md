@@ -23,4 +23,4 @@ You can navigate the colorschemes with the arrow keys.
 
 
 ## Credits
-I've created this just for fun. All colorschemes included in this repository belong to their original creators. Please star their plugins if you like them.
+I've created this just for fun. All colorschemes included in this repository belong to their original authors. Please star their plugins if you like them.
