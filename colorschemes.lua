@@ -31,6 +31,13 @@ return {
     },
   },
 
+  -- morta.nvim [theme]
+  -- https://github.com/philosofonusus/morta.nvim
+  {
+    "philosofonusus/morta.nvim",
+    event = "User LoadColorSchemes",
+  },
+  
   -- tokyodark [theme]
   -- https://github.com/tiagovla/tokyodark.nvim
   {
