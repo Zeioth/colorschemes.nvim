@@ -1,6 +1,12 @@
 # colorschemes.nvim
 Shell command to preview the top 50 neovim colorschemes.
 
+<div align="center">
+  <a href="https://discord.gg/ymcMaSnq7d" rel="nofollow">
+    <img src="https://img.shields.io/discord/1121138836525813760?color=azure&labelColor=6DC2A4&logo=discord&logoColor=black&label=Join%20the%20discord%20server&style=for-the-badge" alt="Discord">
+  </a>
+</div>
+
 ```
 wget https://raw.githubusercontent.com/Zeioth/colorschemes.nvim/main/colorschemes-minfile.lua -O preview-colorschemes.lua && nvim -u preview-colorschemes.lua
 ```
